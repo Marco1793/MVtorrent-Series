@@ -47,3 +47,13 @@
 <info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>Lupin</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Marco1793/MVtorrent-Series/main/Lupin</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em "Arsène Lupin, o Ladrão de Casaca" para vingá-lo.</info>
+</channel>
+</channels>
